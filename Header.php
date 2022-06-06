@@ -17,7 +17,9 @@
 
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="/">Biblioteca</a>
+            <a class="navbar-brand" href="/">
+            <img src="/images/icons/favicon.ico" width="30" height="30" class="mr-1 mb-1" alt="">    
+            Biblioteca</a>
             <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
