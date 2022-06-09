@@ -43,6 +43,7 @@
                             <a class="dropdown-item" href="/templates/Prestamos/ListaPorSocio.php">Prestamos por socio</a>
                             <a class="dropdown-item" href="/templates/Prestamos/ListaPorFecha.php">Prestamos por fechas</a>
                             <a class="dropdown-item" href="/templates/Prestamos/ListaPorMenores.php">Prestamos a menores</a>
+                            <a class="dropdown-item" href="/templates/Prestamos/ListaPrimerSemestre.php">Prestamos primer semestre</a>
                         </div>
                     </li>
 
